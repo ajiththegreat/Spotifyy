@@ -1,0 +1,181 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 160px;
+}
+
+header {
+    background: linear-gradient(115deg, rgb(0, 0, 0) 5.8%, rgb(178, 14, 14) 112.6%);
+    padding: 5%;
+    
+    
+    width: 100%;
+    padding-bottom: 2px;
+    padding-top: 7px;
+    
+}
+.textsearch{
+    padding-left: 10px;
+}
+.img{
+    display: inline-block;
+    
+}
+.imgspo{
+    display: flex;
+}
+.spotify{
+    padding-left: 10px;
+    padding-top: 0px;
+    display: inline-block;
+}
+
+.pa{
+    padding-left: 30px;
+}
+.playlist{
+    display: inline-block;
+}
+.artist{
+    display: inline-block;
+}
+
+.container {
+    width: 100%;
+    padding: 10px;
+    color: white;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.whitebox1{
+    background-image: url(naan\ ne.jpg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+.whitebox2{
+    background-image: url(nee.jpeg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}.whitebox3{
+    background-image: url(mun.jpg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+.whitebox4{
+    background-image: url(theera.jpg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+.whitebox5{
+    background-image: url(maya.jpg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+.whitebox6{
+    background-image: url(ram.jpeg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+.whitebox7{
+    background-image: url(kaatru.jpg);
+    background-size:cover ;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+
+.title{
+    margin: 0px;
+}
+.sub{
+    margin: 0px;
+}
+footer,.home,.library,.search,.about{
+    padding: 5px;
+    align-items: center;
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.search{
+    padding-left: 10px;
+}
+.footerbox1{
+    padding-left: 40px;
+    text-decoration: none;
+}
+.footerbox2{
+    padding-left: 40px;
+}
+.footerbox3{
+    padding-left: 40px;
+}
+footer{
+    background: linear-gradient(115deg, rgb(0, 0, 0) 5.8%, rgb(178, 14, 14) 112.6%);
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    color: white;
+}
+.content{
+    color: white;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+.leo{
+    background-image: url(leo.jpg);
+    background-size:cover ;
+    width: 80px;
+    height: 60px;
+    border-radius: 12px;
+    
+    
+    
+}
+.player{
+    background: linear-gradient(115deg, rgb(0, 0, 0) 5.8%, rgb(178, 14, 14) 112.6%);
+    width: 100%;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    margin-bottom: 10px;
+    position: fixed;
+    bottom: 80px;
+}
+.leobox{
+    display: flex;
+    padding: 10px;
+}
